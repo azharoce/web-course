@@ -1,0 +1,91 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-6223a28a.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/fonts/Brand-Icons.svg": {
+    "file": "assets/Brand-Icons-9a86b538.svg",
+    "src": "resources/fonts/Brand-Icons.svg"
+  },
+  "resources/fonts/Brand-Icons.ttf": {
+    "file": "assets/Brand-Icons-f59f62fd.ttf",
+    "src": "resources/fonts/Brand-Icons.ttf"
+  },
+  "resources/fonts/Brand-Icons.woff": {
+    "file": "assets/Brand-Icons-72188c1f.woff",
+    "src": "resources/fonts/Brand-Icons.woff"
+  },
+  "resources/fonts/Feather-Icons.svg": {
+    "file": "assets/Feather-Icons-1d74ce42.svg",
+    "src": "resources/fonts/Feather-Icons.svg"
+  },
+  "resources/fonts/Feather-Icons.ttf": {
+    "file": "assets/Feather-Icons-41feee4b.ttf",
+    "src": "resources/fonts/Feather-Icons.ttf"
+  },
+  "resources/fonts/Feather-Icons.woff": {
+    "file": "assets/Feather-Icons-edc41356.woff",
+    "src": "resources/fonts/Feather-Icons.woff"
+  },
+  "resources/fonts/Material-Icons.svg": {
+    "file": "assets/Material-Icons-f5d8e53d.svg",
+    "src": "resources/fonts/Material-Icons.svg"
+  },
+  "resources/fonts/Material-Icons.ttf": {
+    "file": "assets/Material-Icons-e3a1715a.ttf",
+    "src": "resources/fonts/Material-Icons.ttf"
+  },
+  "resources/fonts/Material-Icons.woff": {
+    "file": "assets/Material-Icons-c807fcd5.woff",
+    "src": "resources/fonts/Material-Icons.woff"
+  },
+  "resources/fonts/unicons.eot": {
+    "file": "assets/unicons-dcf0bfae.eot",
+    "src": "resources/fonts/unicons.eot"
+  },
+  "resources/fonts/unicons.svg": {
+    "file": "assets/unicons-60dcf7c6.svg",
+    "src": "resources/fonts/unicons.svg"
+  },
+  "resources/fonts/unicons.ttf": {
+    "file": "assets/unicons-0c55ef67.ttf",
+    "src": "resources/fonts/unicons.ttf"
+  },
+  "resources/fonts/unicons.woff": {
+    "file": "assets/unicons-2d282daf.woff",
+    "src": "resources/fonts/unicons.woff"
+  },
+  "resources/images/icon-play.svg": {
+    "file": "assets/icon-play-9c071509.svg",
+    "src": "resources/images/icon-play.svg"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-78fdd011.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/Feather-Icons-41feee4b.ttf",
+      "assets/Feather-Icons-edc41356.woff",
+      "assets/Feather-Icons-1d74ce42.svg",
+      "assets/Brand-Icons-f59f62fd.ttf",
+      "assets/Brand-Icons-72188c1f.woff",
+      "assets/Brand-Icons-9a86b538.svg",
+      "assets/Material-Icons-e3a1715a.ttf",
+      "assets/Material-Icons-c807fcd5.woff",
+      "assets/Material-Icons-f5d8e53d.svg",
+      "assets/unicons-dcf0bfae.eot",
+      "assets/unicons-2d282daf.woff",
+      "assets/unicons-0c55ef67.ttf",
+      "assets/unicons-60dcf7c6.svg",
+      "assets/icon-play-9c071509.svg"
+    ],
+    "css": [
+      "assets/app-78fdd011.css"
+    ],
+    "file": "assets/app-f07b4220.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

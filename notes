@@ -1,0 +1,9 @@
+generate model from table 
+
+`php artisan generate:modelfromtable --table=permissions --folder=app/Models`
+
+
+generate controller from  model 
+
+php artisan make:controller Api/PermissionsController --resource --model=Permissions
+
